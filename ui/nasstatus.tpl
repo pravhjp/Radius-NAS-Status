@@ -6,7 +6,7 @@
             <div class="panel-heading">
                 <div class="btn-group pull-right">
                     <form action="{$_url}plugin/nas_status" method="post">
-                </div>Online NAS: {$totalCount}                
+                </div>NAS Status: {$nasStatusSummary}                
             </div>
             <div class="table-responsive">
                 <table class="table">
